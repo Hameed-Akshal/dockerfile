@@ -22,4 +22,4 @@ docker stop nodehelloworld
 docker start nodehelloworld
 
 ## To Remove Container
-docker rm nodehelloworld
+docker rm nodehelloworld# dockerfile-sample
